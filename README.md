@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1w-ckCcWs26cqaYCmPAFV9KjuwyTZYJjr?usp=sh
 ## Dataset
 https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data/data?utm_source=chatgpt.com
 ## Technologies Used
-*  Python 3.x
+* Python 3.x
 * Pandas
 * NumPy
 * Scikit-learn
@@ -38,8 +38,8 @@ https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data/data?
 * Predictions and graphs generated
 * Results displayed to user
 ## Installation and Setup
-git clone https://github.com/your-username/atmospheric-hpc-project.git
-cd atmospheric-hpc-project
+git clone https://github.com/bgSreevani/Atmospheric-Data-Simulation.git
+cd Atmospheric-Data-Simulation
 ## Install Dependencies
 pip install pandas numpy matplotlib scikit-learn tensorflow gradio
 ## How to Run
